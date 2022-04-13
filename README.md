@@ -1,5 +1,5 @@
 # Rock Paper Scissor
-With this project I wanted to embrace my inner Trinity !!! I will be designing the game with a Matrix theme.
+With this project I wanted to embrace my inner Neo !!! I will be designing the game with a Matrix theme.
 
 # The Design
 Design 1

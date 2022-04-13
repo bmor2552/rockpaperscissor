@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+    font-family: 'cutive';
+}
+
+
+/* I have selected the command line design where morpheus reaches out to neo
+I need to animate the text 
+I need to also add an anomation for the blinking cursor (the effect of working in 
+the command line)
+
+Next steps
+Continue building the bones of the html and css to make sure I have what a need for app.js*/
