@@ -9,6 +9,11 @@
 }
 
 
+header {
+text-align: center;
+font-size: 40px;
+}
+
 /* I have selected the command line design where morpheus reaches out to neo
 I need to animate the text 
 I need to also add an animation for the blinking cursor (the effect of working in 
