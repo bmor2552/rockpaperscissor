@@ -16,8 +16,18 @@ Knock, knock Neo.
 # The Outcome 
 
 # The Conclusion 
+What I Have Learned:
+1. 
+2. 
+3. 
+4. 
+5. 
 
 # Resources 
+
+- Code with Ania Kubów (https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+- Google Fonts
+- Font Awesome 
 
 # Connect With Me 
 
