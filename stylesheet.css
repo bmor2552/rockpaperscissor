@@ -4,6 +4,7 @@
     margin: 0%;
     padding: 0%;
     background-color: black;
+    text-align: center;
     color: lime;
     font-family: 'VT323';
 }
@@ -11,23 +12,48 @@
 
 header {
 text-align: center;
-font-size: 40px;
+font-size: 70px;
 }
 
 p {
-    font-size: 33px;
+    font-size: 45px;
+}
+
+.action-mesg{
+    font-size: 45px;
 }
 
 i{
-    font-size: 40px;
+    font-size: 55px;
 }
 
 #score-board{
-    font-size: 33px;
+    font-size: 45px;
+}
+
+#neos-score{
+    font-size: 70px;
+}
+
+#arc-score{
+    font-size: 70px;   
 }
 
 .players{
-    font-size: 33px;
+    font-size: 45px;
+}
+
+.hand{
+    display: inline-block;
+    padding: 10px;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+
+}
+
+.hand:hover{
+cursor: pointer;
+box-shadow: 0px 0px 5px lime;
 }
 
 /* I have selected the command line design where morpheus reaches out to neo
