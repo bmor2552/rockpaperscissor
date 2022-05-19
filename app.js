@@ -1,5 +1,4 @@
 
-const choices = ["rock", "paper", "scissors"];
 
 /* Problem Break Down 
 Choices 
@@ -45,9 +44,25 @@ P2: The Architect
 /* Pseudo Code 
 
 create choices = [rock, paper, scissors]
+const choices = ["rock", "paper", "scissors"];
 
 create player 1 Neo
+const P1 = ; neo
+
 create player 2 The Architect 
+const P2 = theArchietect
+
+function for the game based off the odin project instructions:
+"that will randomly return either ‘Rock’, ‘Paper’ or ‘Scissors’. 
+We’ll use this function in the game to make the computer’s play."
+function computerPlay ()
+choices[Math.floor(Math.random() * choices.length)];
+
+Further Instructions:
+Write a function that plays a single round of Rock Paper Scissors. The function should take two parameters 
+- the playerSelection and computerSelection - 
+and then return a string that declares the winner of the round like so: 
+"You Lose! Paper beats Rock"
 
 function for RPS Game (Neo, The Architect) takes the two players as parameters for the game 
     function to tally score ()
