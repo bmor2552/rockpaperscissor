@@ -25,7 +25,9 @@ What I Have Learned:
 
 # Resources 
 
-- Code with Ania Kubów (https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
+- Code with Ania Kubów 
+ 1. https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
+ 2. https://www.youtube.com/watch?v=RwFeg0cEZvQ
 - Google Fonts
 - Font Awesome 
 
