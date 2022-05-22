@@ -64,12 +64,20 @@ Write a function that plays a single round of Rock Paper Scissors. The function 
 and then return a string that declares the winner of the round like so: 
 "You Lose! Paper beats Rock"
 
-function for RPS Game (Neo, The Architect) takes the two players as parameters for the game 
+Make your function’s playerSelection parameter case-insensitive 
+(so users can input rock, ROCK, RocK or any other variation).
+function for RPS Game (Neo, The Architect) 
+takes the two players as parameters for the game 
     function to tally score ()
     function to reset after game ()
 
-function for Neo ()
-function for The Architect ()
+function playRound (P1, P2)
+{
+
+    return "Rest assure this will be the six time we have destroyed it and we have become 
+            exceedingly efficient at it."
+}
+
 
 
 
